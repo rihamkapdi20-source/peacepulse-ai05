@@ -1,1 +1,15 @@
-
+{
+  "name": "peacepulse-ai",
+  "version": "1.0.0",
+  "description": "PeacePulse AI Mental Wellness Assistant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "PeacePulse Team",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
